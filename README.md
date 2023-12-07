@@ -31,8 +31,7 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 For any inquiries or collaboration proposals, please feel free to contact the repository maintainers.
 
 ## Poster
-![Alt text](A-Machine-Learning-Approach-for-US-Mortgage-Risk-Analysis
-/Mortgage Risk Study Poster.jpg)
+![Poster](Mortgage Risk Study Poster.jpg)
 
 ---
 
