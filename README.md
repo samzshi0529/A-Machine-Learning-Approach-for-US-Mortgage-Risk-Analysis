@@ -31,7 +31,7 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 For any inquiries or collaboration proposals, please feel free to contact the repository maintainers.
 
 ## Poster
-![Alt text](Mortgage Risk Study Poster.jpg)
+![Alt text](/Mortgage Risk Study Poster.jpg)
 
 ---
 
