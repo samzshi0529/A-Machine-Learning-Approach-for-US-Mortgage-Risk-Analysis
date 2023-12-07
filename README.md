@@ -1,4 +1,4 @@
-# A-Machine-Learning-Approach-for-US-Mortgage-Risk-Analysis 💰
+# A-Machine-Learning-Approach-for-US-Mortgage-Risk-Analysis 🏠
 The code base for the independent study of "A Machine Learning Approach for US Mortgage Risk Analysis" by Sam Shi finished as a practicum at University of Pennsylvania.
 
 ## Overview
