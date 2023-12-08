@@ -6,7 +6,7 @@ This repository contains the source code and datasets for a independent study fo
 
 ## Objectives
 Our independent study introduces a innovative machine learning methodology to improve mortgage default risk analysis through three key approaches:
-1. **Interpretable Models**: We focus on developing models that are not only accurate but also interpretable, highlighting the top 10 risk-augmenting features that influence mortgage defaults.
+1. **Interpretable Models**: We focus on developing models that are not only accurate but also interpretable, highlighting the top 10 risk-augmenting features that influence mortgage risks.
 2. **LSTM-based Predictions**: We demonstrate the efficacy of a Long Short-Term Memory (LSTM)-based model in generating reliable predictions from limited data sets.
 3. **Loan-Level Framework**: A new framework at the loan level is proposed for a more nuanced assessment of mortgage risks.
 
