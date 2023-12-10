@@ -2,7 +2,8 @@
 The code base for the independent study of "A Machine Learning Approach for US Mortgage Risk Analysis" by Sam Shi finished as a practicum at University of Pennsylvania.
 
 # Complete Report in pdf
-The complete report of the study can be found in ![Report](A%Machine%Learning%Approach%in%US%Mortgage%Risk%Analysis%by%Sam%Shi.pdf)
+The complete report of the study can be found in [Report](A%20Machine%20Learning%20Approach%20in%20US%20Mortgage%20Risk%20Analysis%20by%20Sam%20Shi.pdf)
+
 
 ## Overview
 This repository contains the source code and datasets for a independent study focused on enhancing mortgage risk analysis. Our study is motivated by the significant impact that MBS can have on the broader economy, as was evident during the 2008 financial crisis. We address the challenges in current public studies which often lack explainability or rely on extensive data for accurate predictions.
